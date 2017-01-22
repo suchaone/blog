@@ -40,14 +40,6 @@ tr {
   border-bottom: 1px solid #eee;
 }
 
-tr:first-child {
-  border-bottom: 2px solid #ddd;
-}
-
-tr:first-child td {
-  vertical-align: bottom;
-}
-
 a.footnote-link {
   border-bottom: 1px dotted #2199e8;
 }
